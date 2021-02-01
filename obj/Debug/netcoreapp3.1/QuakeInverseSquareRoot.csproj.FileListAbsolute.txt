@@ -1,0 +1,13 @@
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\obj\Debug\netcoreapp3.1\QuakeInverseSquareRoot.csprojAssemblyReference.cache
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\obj\Debug\netcoreapp3.1\QuakeInverseSquareRoot.AssemblyInfoInputs.cache
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\obj\Debug\netcoreapp3.1\QuakeInverseSquareRoot.AssemblyInfo.cs
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\obj\Debug\netcoreapp3.1\QuakeInverseSquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\bin\Debug\netcoreapp3.1\QuakeInverseSquareRoot.exe
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\bin\Debug\netcoreapp3.1\QuakeInverseSquareRoot.deps.json
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\bin\Debug\netcoreapp3.1\QuakeInverseSquareRoot.runtimeconfig.json
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\bin\Debug\netcoreapp3.1\QuakeInverseSquareRoot.runtimeconfig.dev.json
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\bin\Debug\netcoreapp3.1\QuakeInverseSquareRoot.dll
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\bin\Debug\netcoreapp3.1\QuakeInverseSquareRoot.pdb
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\obj\Debug\netcoreapp3.1\QuakeInverseSquareRoot.dll
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\obj\Debug\netcoreapp3.1\QuakeInverseSquareRoot.pdb
+C:\Users\robbie\source\repos\QuakeInverseSquareRoot\QuakeInverseSquareRoot\obj\Debug\netcoreapp3.1\QuakeInverseSquareRoot.genruntimeconfig.cache
